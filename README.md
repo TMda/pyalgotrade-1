@@ -1,4 +1,5 @@
-PyAlgoTrade
+PyAlgoTrade Version Development PFE ETS
+All Major Change have to be developped in this version
 ===========
 
 [![Build Status](https://travis-ci.org/gbeced/pyalgotrade.png?branch=master)](https://travis-ci.org/gbeced/pyalgotrade)
